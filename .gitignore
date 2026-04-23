@@ -1,0 +1,19 @@
+node_modules/
+out/
+release/
+dist/
+.npm/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Electron
+*.blockmap
+builder-debug.yml

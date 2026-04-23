@@ -1,0 +1,12 @@
+{
+  "id": "music",
+  "name": "音乐电台",
+  "icon": "music",
+  "frequency": "FM 103.9",
+  "description": "聚合网易云/QQ音乐，搜索+心情/风格/榜单",
+  "type": "music",
+  "voice": null,
+  "systemPrompt": null,
+  "contentStrategy": null,
+  "generationParams": null
+}
